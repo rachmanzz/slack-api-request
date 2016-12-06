@@ -1,0 +1,19 @@
+{
+  "name": "slack-api-request",
+  "version": "1.0.0",
+  "description": "request for invite member",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachmanzz/slack-api-request.git"
+  },
+  "author": "Muhammad Abdurrahman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rachmanzz/slack-api-request/issues"
+  },
+  "homepage": "https://github.com/rachmanzz/slack-api-request#readme"
+}
