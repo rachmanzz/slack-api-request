@@ -13,7 +13,7 @@
 	const whiteList =['http://127.0.0.1','http://localhost']
 	
 #### invite 
-	Ajax Request
+	//Ajax Request
 		
 		var xhttp = new XMLHttpRequest();
             xhttp.open("GET","http://apidomain/http/api/request?email=email@gmail.com",true);
@@ -26,7 +26,7 @@
             };
             xhttp.send();
 			
-	socket io client side
+	//socket io client side
 	
 		//send email data
 		socket.emit('http-api-request', { email: 'email@gmail.com' });
